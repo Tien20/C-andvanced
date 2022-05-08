@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "mstring.h": "c",
+        "calc.h": "c",
+        "convert.h": "c",
+        "stdio.h": "c",
+        "random": "c"
+    }
+}
